@@ -1,0 +1,42 @@
+Topics & Explanations – Day 37
+
+1)Business Forecasting with Time Series
+======================================
+Forecasting helps businesses predict future outcomes (sales, demand, costs) using past data.
+Techniques: Moving Averages, ARIMA, Exponential Smoothing.
+
+Example: Predicting monthly revenue for an e-commerce store.
+
+
+2)Predictive Modeling Basics
+=============================
+Predictive models use historical data to make future predictions.
+Common algorithms: Linear Regression, Decision Trees, Random Forests.
+
+Example: Predicting customer churn probability in telecom.
+
+
+3)Anomaly Detection
+====================
+Detects unusual patterns that don’t fit expected behavior.
+Methods: Z-Score, Isolation Forest, DBSCAN clustering.
+
+Example: Detecting fraudulent credit card transactions.
+
+
+4)Market Basket Analysis (Association Rules)
+===========================================
+Identifies patterns in customer purchases.
+Uses concepts like Support, Confidence, Lift.
+
+Example: Customers who buy bread often buy butter → retail recommendation.
+
+
+5)Case Study: Forecasting Sales for a Retail Chain
+===============================================
+Dataset: Daily/weekly sales data from multiple stores.
+Steps: Data preprocessing → Time series forecasting → Anomaly detection for sales spikes → Market basket analysis for product promotions.
+
+Insights: Helps in inventory planning, promotion targeting, and profit maximization.
+
+
